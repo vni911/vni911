@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**vni911/vni911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--------------------------------------------------------------
+<div align="center"> 
 
-Here are some ideas to get you started:
+![header](https://capsule-render.vercel.app/api?type=Venom&color=fffacd&height=150&section=header&text=Slity&fontColor=dda0dd&fontSize=70&animation=fadeIn&fontAlignY=55)
+  
+<h3>Welcome my github profile !</h3>
+  
+ <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <br/>
+ 
+<h3> :chart_with_upwards_trend: Stats :chart_with_downwards_trend:	  </h3> 
+ 
+  <br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vni911&langs_count=10&layout=compact&bg_color=fffacd&border_color=ba55d3&text_color=000000&title_color=800080"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vni911&hide=contribs,prs&show_icons=true&bg_color=fffacd&border_color=ba55d3&text_color=dda0dd&title_color=800080"/>
+</div>
