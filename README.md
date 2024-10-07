@@ -14,11 +14,12 @@
 </div>
 
 
-Name : Kim JeongUn
-Birth Date : 2002/09/11
-Nation : Republic of Korea
-Major : Statistics & Computer Science
-Email : 0911kjw@naver.com
+-  Name : Kim JeongUn
+-  Birth Date : 2002/09/11
+-  Nation : Republic of Korea
+-  Major : Statistics & Computer Science
+-  Email : 0911kjw@naver.com
+-  School : Yeungnam Univ
 
 
 ## MyStack
