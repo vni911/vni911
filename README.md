@@ -1,5 +1,5 @@
 
---------------------------------------------------------------
+---
 <div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=fffacd&height=150&section=header&text=Slity&fontColor=dda0dd&fontSize=70&animation=fadeIn&fontAlignY=55)
@@ -16,10 +16,10 @@
 
 -  Name : Kim JeongUn
 -  Birth Date : 2002/09/11
--  Nation : Republic of Korea
+-  Nation : Republic of Korea(ROK)
 -  Major : Statistics & Computer Science
 -  Email : 0911kjw@naver.com
--  School : Yeungnam Univ
+-  School : Yeungnam Univ.
 
 
 ## MyStack
