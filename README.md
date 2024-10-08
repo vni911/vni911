@@ -5,7 +5,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=fffacd&height=150&section=header&text=Slity&fontColor=dda0dd&fontSize=70&animation=fadeIn&fontAlignY=55)
   
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vni911&langs_count=10&layout=compact&bg_color=fffacd&border_color=ba55d3&text_color=000000&title_color=800080"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vni911&langs_count=10&layout=compact laydout&bg_color=fffacd&border_color=ba55d3&text_color=000000&title_color=800080"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vni911&hide=contribs,prs&show_icons=true&bg_color=fffacd&border_color=ba55d3&text_color=dda0dd&title_color=800080"/>
 
 ---
@@ -39,3 +39,4 @@
 ------
 
 </div>
+<a href="https://hits.seeyoufarm.com"><img align="left" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvni911%2F&count_bg=%23FF9E00&title_bg=%23800080&icon=applemusic.svg&icon_color=%23FFFACD&title=slity&edge_flat=false"/></a>
