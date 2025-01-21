@@ -17,7 +17,7 @@
 -  Name : Kim JeongUn
 -  Birth Date : 2002/09/11
 -  Nation : Republic of Korea(ROK)
--  Major : Statistics & Computer Science
+-  Major : Statistics & Computer Science - DS / DE
 -  Email : 0911kjw@naver.com
 -  School : Yeungnam Univ.
 
