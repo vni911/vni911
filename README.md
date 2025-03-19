@@ -33,7 +33,7 @@
 
   |  Status   | Language                                |
 | ---------- | :----------------------------------------------: |
-| Studying |  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white" />
+| Studying |  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white" />
 | Planning   | <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>  |
 ------
 
