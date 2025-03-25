@@ -23,7 +23,7 @@
 
 
 ## MyStack
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white" /> <img src="https://img.shields.io/badge/SAS-0082F0?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white" /> <img src="https://img.shields.io/badge/SAS-0082F0?style=for-the-badge&logoColor=white"/>
 <p>
 
   
