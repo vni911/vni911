@@ -38,5 +38,3 @@
 ------
 
 </div>
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvni911%2F&count_bg=%23FF9E00&title_bg=%23800080&icon=applemusic.svg&icon_color=%23FFFACD&title=slity&edge_flat=false"/></a>
