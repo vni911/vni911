@@ -16,7 +16,7 @@
 -  Major : Statistics & Computer Science - DA
 -  Email : rlawjddns02@gmail.com
 -  School : Yeungnam Univ.
-
+-  Interest : Retrieval-Augmented Generatiuon(RAG) Research/Study
 
 ## Stack
 - FrontEnd
