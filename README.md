@@ -17,6 +17,9 @@
 -  Email : rlawjddns02@gmail.com
 -  School : Yeungnam Univ.
 -  Interest : Retrieval-Augmented Generatiuon(RAG) Research/Study
+-  
+## Portfolio
+> ###  🖱️ <a href="https://www.notion.so/26cac7186b6380179e0bf7c9aba60f55?source=copy_link" target="_blank">**Kim Jeong Un's Portfolio Notion Pages**</a>
 
 ## Stack
 - FrontEnd
