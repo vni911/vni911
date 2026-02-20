@@ -19,7 +19,7 @@
 -  Interest : Retrieval-Augmented Generatiuon(RAG) Research/Study
 -  
 ## Portfolio
-> ###  🖱️ <a href="https://www.notion.so/26cac7186b6380179e0bf7c9aba60f55?source=copy_link" target="_blank">**Kim Jeong Un's Portfolio Notion Pages**</a>
+> ###  🖱️ <a href="https://daffy-bestseller-00c.notion.site/Kim-Jeong-Un-s-Portfolio-30b625d0c5ce80ea964fd011d708ae12?pvs=74">**Kim Jeong Un's Portfolio Notion Pages**</a>
 
 ## Stack
 - FrontEnd
