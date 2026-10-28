@@ -1,0 +1,33 @@
+name: GitHub Rhythm
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards-rhythm
+  cancel-in-progress: true
+
+jobs:
+  rhythm:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Render Rhythm card
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: vni911
+          cards: rhythm
+          layout: split
+          output-dir: assets
+          themes: light,dark
+          palette: purple
+          commit: true
+          commit-message: "chore(profile): refresh Rhythm card [skip ci]"
