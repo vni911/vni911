@@ -28,6 +28,6 @@ jobs:
           layout: split
           output-dir: assets
           themes: light,dark
-          palette: blue
+          palette: purple
           commit: true
           commit-message: "chore(profile): refresh Rhythm card [skip ci]"
